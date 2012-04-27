@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2011 Anton Filimonov
+ *
+ * See the file license.txt for copying permission.
+ */
+
 #include <QtCore/QCoreApplication>
 
 #include <QByteArray>
